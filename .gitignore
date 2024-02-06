@@ -16,6 +16,8 @@ uploads
 upgrade
 
 #wordpress plugin files / folders
+plugins/woo-gutenberg-products-block
+plugins/woocommerce
 
 
 # NPM files 
