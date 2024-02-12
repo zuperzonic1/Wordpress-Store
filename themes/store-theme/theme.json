@@ -17,18 +17,23 @@
 					"name": "Base"
 				},
 				{
+					"slug": "base-light",
+					"color": "#0A0A0A",
+					"name": "Base light"
+				},
+				{
 					"slug": "contrast",
 					"color": "#f0f0f0",
 					"name": "Contrast"
 				},
 				{
 					"slug": "primary",
-					"color": "#0073aa",
+					"color": "#00F0FF",
 					"name": "Primary"
 				},
 				{
 					"slug": "secondary",
-					"color": "#00a0d2",
+					"color": "#00F0FF",
 					"name": "Secondary"
 				},
 				{
