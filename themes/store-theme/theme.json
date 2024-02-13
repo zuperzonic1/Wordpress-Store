@@ -17,28 +17,23 @@
 					"name": "Base"
 				},
 				{
-					"slug": "base-light",
+					"slug": "primary",
 					"color": "#0A0A0A",
-					"name": "Base light"
+					"name": "Primary"
 				},
 				{
 					"slug": "contrast",
-					"color": "#f0f0f0",
+					"color": "#FFFFFF",
 					"name": "Contrast"
 				},
 				{
 					"slug": "contrast-light",
-					"color": "#DADADA",
+					"color": "#D6D6D6",
 					"name": "Contrast"
 				},
 				{
-					"slug": "primary",
-					"color": "#00F0FF",
-					"name": "Primary"
-				},
-				{
 					"slug": "secondary",
-					"color": "#00F0FF",
+					"color": "#000000",
 					"name": "Secondary"
 				},
 				{
