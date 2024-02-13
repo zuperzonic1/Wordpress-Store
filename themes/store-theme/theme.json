@@ -29,12 +29,12 @@
 				{
 					"slug": "contrast-light",
 					"color": "#D6D6D6",
-					"name": "Contrast"
+					"name": "contrast-light"
 				},
 				{
-					"slug": "secondary",
-					"color": "#000000",
-					"name": "Secondary"
+					"slug": "contrast-main",
+					"color": "#00F0FF",
+					"name": "contrast-main"
 				},
 				{
 					"slug": "transparent",
