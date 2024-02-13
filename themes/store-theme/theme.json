@@ -44,28 +44,29 @@
 			],
 			"gradients": [
 				{
-					"slug": "primary-white",
-					"gradient": "linear-gradient(#0073aa 49.9%,#fff 50%)",
-					"name": "Primary color to white"
+				  "slug": "dark-to-accent",
+				  "gradient": "linear-gradient(#0a0a0a 0%, #0073aa 100%)",
+				  "name": "Dark to Accent"
 				},
 				{
-					"slug": "white-primary",
-					"gradient": "linear-gradient(#fff 49.9%,#0073aa 50%)",
-					"name": "Horizontal white to Primary color"
+				  "slug": "accent-to-dark",
+				  "gradient": "linear-gradient(#0073aa 0%, #0a0a0a 100%)",
+				  "name": "Accent to Dark"
 				}
-			],
+			  ],
 			"duotone": [
-				{
-					"colors": [ "#00a0d2", "#0073aa"],
-					"slug": "secondary-primary",
-					"name": "Secondary and primary"
-				},
-				{
-					"colors": ["#0073aa", "#f0f0f0"],
-					"slug": "primary-contrast",
-					"name": "Primary and Contrast"
-				}
+			{
+				"colors": ["#006494", "#0096c7"],
+				"slug": "secondary-primary",
+				"name": "Secondary and Primary"
+			},
+			{
+				"colors": ["#0073aa", "#d0d0d0"], 
+				"slug": "primary-contrast",
+				"name": "Primary and Contrast"
+			}
 			]
+			  
 		},
 		"layout": {
 			"contentSize": "1024px",
