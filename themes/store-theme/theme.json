@@ -80,6 +80,11 @@
 			"fluid": true,
 			"fontFamilies": [
 				{
+					"name": "system",
+					"slug": "system",
+					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif"
+				},
+				{
 					"name": "Istok Web",
 					"slug": "istok-web",
 					"fontFamily": "'Istok Web', sans-serif"
