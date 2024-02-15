@@ -14,6 +14,7 @@ Thumbs.db
 #wordpress standard files / folders
 uploads
 upgrade
+themes/twentytwentyfour
 
 #wordpress plugin files / folders
 plugins/woo-gutenberg-products-block
