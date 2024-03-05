@@ -31,6 +31,16 @@ function mytheme_enqueue_google_fonts()
 	wp_enqueue_style('google-fonts', 'https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Jaldi:wght@400;700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap', false);
 }
 
-
-
 add_action('wp_enqueue_scripts', 'store_theme_styles', 'mytheme_enqueue_google_fonts');
+
+
+
+function block_theme_custom_use_block_editor_for_post_type($can_edit, $post_type)
+{
+	if ($post_type == 'product') {
+		$can_edit = true;
+	}
+	return $can_edit;
+}
+
+add_filter('use_block_editor_for_post_type', 'block_theme_custom_use_block_editor_for_post_type', 10, 2);
