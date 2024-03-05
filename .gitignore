@@ -17,8 +17,10 @@ upgrade
 themes/twentytwentyfour
 
 #wordpress plugin files / folders
-plugins/woo-gutenberg-products-block
-plugins/woocommerce
+plugins/*
+!plugins/texture-store-core-block-hooks
+
+
 
 
 # NPM files 
