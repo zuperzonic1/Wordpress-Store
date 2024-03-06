@@ -38,3 +38,9 @@ p.wp-block-site-title.has-istok-web-font-family a:hover{
 	color: #00F0FF !important;
 }
 
+
+p.wp-block-site-title.has-istok-web-font-family a:active {
+	color: #00F0FF !important;
+}
+
+
