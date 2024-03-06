@@ -30,3 +30,11 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
 }
+
+
+
+
+p.wp-block-site-title.has-istok-web-font-family a:hover{
+	color: #00F0FF !important;
+}
+
