@@ -107,3 +107,16 @@ span.onsale{
 	background-color: #00F0FF !important;
 	color: #000000 !important;
 }
+
+h2.wp-block-post-title a{
+	color: #00F0FF !important;
+}
+
+h2.wp-block-post-title a:active{
+	color: #00F0FF !important;
+}
+
+h2.wp-block-post-title a:hover{
+	color: #00F0FF !important;
+	scale: 1.02;
+}
