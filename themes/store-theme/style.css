@@ -48,3 +48,11 @@ a.wp-block-navigation-item__content{
 	/* remove underline */
 	text-decoration: none !important;
 }
+
+span.wp-block-navigation-item__label:hover{
+	color: #00F0FF !important;
+}
+
+span.wp-block-navigation-item__label:active {
+	color: #00F0FF !important;
+}
