@@ -85,3 +85,11 @@ h1.wp-block-post-title.has.josefin-sans-font-family{
 label#wsf-1-label-1.wsf-label, label#wsf-1-label-2.wsf-label, label#wsf-1-label-3.wsf-label, label#wsf-1-label-4.wsf-label, label#wsf-1-label-5.wsf-label {
 	color: #ffffff !important;
 }
+
+small#wsf-1-help-5.wsf-help.wsf-help-post{
+	color: #b0b0b0 !important;
+}
+
+strong.wsf-text-danger{
+	color: #00F0FF !important;
+}
