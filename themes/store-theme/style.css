@@ -66,3 +66,11 @@ div.woocommerce.wc-block-catalog-sorting.has-font-size.has-small-font-size form.
 	background-color: black;
 	border-radius: 5px;
 }
+
+div.wp-block-navigation__responsive-container{
+	background-color: #afafaf !important;
+}
+
+ul li.wp-block-navigation-item.wp-block-navigation-link {
+	color: #f3f3f3 !important;
+}
