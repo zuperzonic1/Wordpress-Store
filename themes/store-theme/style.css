@@ -71,6 +71,6 @@ div.wp-block-navigation__responsive-container{
 	background-color: #afafaf !important;
 }
 
-ul li.wp-block-navigation-item.wp-block-navigation-link {
-	color: #f3f3f3 !important;
+h3.has-text-align-center.wp-block-post-title.has-medium-font-size a:hover{
+	color: #00F0FF !important;
 }
