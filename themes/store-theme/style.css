@@ -56,3 +56,7 @@ span.wp-block-navigation-item__label:hover{
 span.wp-block-navigation-item__label:active {
 	color: #00F0FF !important;
 }
+
+nav.woocommerce-breadcrumb a:hover, nav.woocommerce-breadcrumb a:hover:active {
+	color: #00F0FF !important;
+}
