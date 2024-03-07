@@ -60,3 +60,9 @@ span.wp-block-navigation-item__label:active {
 nav.woocommerce-breadcrumb a:hover, nav.woocommerce-breadcrumb a:hover:active {
 	color: #00F0FF !important;
 }
+
+div.woocommerce.wc-block-catalog-sorting.has-font-size.has-small-font-size form.woocommerce-ordering select.orderby{
+	color: #f3f3f3 !important;
+	background-color: black;
+	border-radius: 5px;
+}
