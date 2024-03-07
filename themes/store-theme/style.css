@@ -124,3 +124,7 @@ h2.wp-block-post-title a:hover{
 div.taxonomy-category.wp-block-post-terms a:hover{
 	color: #00F0FF !important;
 }
+
+a.wp-block-post-author-name__link:hover{
+	color: #00F0FF !important;
+}
