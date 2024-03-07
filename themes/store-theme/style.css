@@ -120,3 +120,7 @@ h2.wp-block-post-title a:hover{
 	color: #00F0FF !important;
 	scale: 1.02;
 }
+
+div.taxonomy-category.wp-block-post-terms a:hover{
+	color: #00F0FF !important;
+}
