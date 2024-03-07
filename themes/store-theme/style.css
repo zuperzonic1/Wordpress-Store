@@ -128,3 +128,7 @@ div.taxonomy-category.wp-block-post-terms a:hover{
 a.wp-block-post-author-name__link:hover{
 	color: #00F0FF !important;
 }
+
+div.wp-block-post-excerpt p.wp-block-post-excerpt__excerpt{
+	color: #949494 !important;
+}
