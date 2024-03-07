@@ -44,3 +44,7 @@ p.wp-block-site-title.has-istok-web-font-family a:active {
 }
 
 
+a.wp-block-navigation-item__content{
+	/* remove underline */
+	text-decoration: none !important;
+}
