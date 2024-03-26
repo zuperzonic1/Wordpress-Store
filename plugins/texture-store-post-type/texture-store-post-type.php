@@ -49,10 +49,10 @@ function stoxture_register_texture_post_type() {
 
       'labels'                => $labels,
       'description'           => __( 'organize and manage company textures', 'TEXTDOMAINHERE' ),
-      'public'                => false,
+      'public'                => true,
       'hierarchical'          => false,
       'exclude_from_search'   => true,
-      'publicly_queryable'    => false,
+      'publicly_queryable'    => true,
       'show_ui'               => true,
       'show_in_menu'          => true,
       'show_in_nav_menus'     => false,
