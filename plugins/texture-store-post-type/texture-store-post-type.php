@@ -64,7 +64,7 @@ function stoxture_register_texture_post_type() {
       'capabilities'          => array(),
       'supports'              => array( 'title', 'editor', 'thumbnail', 'excerpt' ),
       'taxonomies'            => array(),
-      'has_archive'           => false,
+      'has_archive'           => true,
       'rewrite'               => array( 'slug' => 'store_texture' ),
       'query_var'             => true,
       'can_export'            => true,
