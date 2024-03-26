@@ -62,7 +62,7 @@ function stoxture_register_texture_post_type() {
       'menu_icon'             => 'dashicons-megaphone',
       'capability_type'       => 'post',
       'capabilities'          => array(),
-      'supports'              => array( 'title', 'editor', 'revisions' ),
+      'supports'              => array( 'title', 'editor', 'thumbnail', 'excerpt' ),
       'taxonomies'            => array(),
       'has_archive'           => false,
       'rewrite'               => array( 'slug' => 'store_texture' ),
