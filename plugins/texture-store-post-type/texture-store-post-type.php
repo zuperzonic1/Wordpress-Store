@@ -63,7 +63,7 @@ function stoxture_register_texture_post_type() {
       'capability_type'       => 'post',
       'capabilities'          => array(),
       'supports'              => array( 'title', 'editor', 'thumbnail', 'excerpt' ),
-      'taxonomies'            => array(),
+      'taxonomies'            => array( 'category'),
       'has_archive'           => true,
       'rewrite'               => array( 'slug' => 'store_texture' ),
       'query_var'             => true,
