@@ -19,6 +19,7 @@ themes/twentytwentyfour
 #wordpress plugin files / folders
 plugins/*
 !plugins/texture-store-core-block-hooks
+!plugins/texture-store-post-type
 
 
 
