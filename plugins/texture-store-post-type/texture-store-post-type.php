@@ -59,7 +59,7 @@ function stoxture_register_texture_post_type() {
       'show_in_admin_bar'     => false,
       'show_in_rest'          => true,
       'menu_position'         => null,
-      'menu_icon'             => 'dashicons-megaphone',
+      'menu_icon'             => 'dashicons-art',
       'capability_type'       => 'post',
       'capabilities'          => array(),
       'supports'              => array( 'title', 'editor', 'thumbnail', 'excerpt' ),

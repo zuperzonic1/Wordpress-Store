@@ -65,9 +65,9 @@ div.woocommerce.wc-block-catalog-sorting.has-font-size.has-small-font-size form.
 	border-radius: 5px;
 }
 
-/* changing nav background color on movile */
+/* changing nav background color on mobile */
 div.wp-block-navigation__responsive-container{
-	background-color: #afafaf !important;
+	background-color: #79e4ff !important;
 }
 
 
@@ -95,7 +95,6 @@ strong.wsf-text-danger{
 	color: #00F0FF !important;
 }
 
-
 /* Changing color of label text */
 label#wsf-1-label-6-row-1.wsf-label{
 	color: #ffffff !important;
@@ -113,27 +112,33 @@ span.onsale{
 	color: #000000 !important;
 }
 
+/* Changing color of post title link */
 h2.wp-block-post-title a{
 	color: #00F0FF !important;
 }
 
+/* Changing color of post title link when active */
 h2.wp-block-post-title a:active{
 	color: #00F0FF !important;
 }
 
+/* Changing color of post title link when hovered */
 h2.wp-block-post-title a:hover{
 	color: #00F0FF !important;
 	scale: 1.02;
 }
 
+/* Changing color of category link when hovered */
 div.taxonomy-category.wp-block-post-terms a:hover{
 	color: #00F0FF !important;
 }
 
+/* Changing color of author name link when hovered */
 a.wp-block-post-author-name__link:hover{
 	color: #00F0FF !important;
 }
 
+/* Changing color of post excerpt text */
 div.wp-block-post-excerpt p.wp-block-post-excerpt__excerpt{
 	color: #949494 !important;
 }
